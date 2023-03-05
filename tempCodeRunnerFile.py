@@ -1,0 +1,1 @@
+root.config(bg="#cce1ec")
